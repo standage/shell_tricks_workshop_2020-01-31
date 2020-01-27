@@ -1,0 +1,12 @@
+data/creatures/Bvul.indvX.repl1.fasta
+data/creatures/Bvul.indvX.repl2.fasta
+data/creatures/Bvul.indvX.repl3.fasta
+data/creatures/Bvul.indvY.repl1.fasta
+data/creatures/Bvul.indvY.repl2.fasta
+data/creatures/Bvul.indvY.repl3.fasta
+data/creatures/Bvul.indvZ.repl1.fasta
+data/creatures/Bvul.indvZ.repl2.fasta
+data/creatures/Bvul.indvZ.repl3.fasta
+data/creatures/Docc.indvX.repl1.fasta
+data/creatures/Docc.indvX.repl2.fasta
+data/creatures/Docc.indvX.repl3.fasta
